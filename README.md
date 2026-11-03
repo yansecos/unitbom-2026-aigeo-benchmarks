@@ -6,7 +6,7 @@
 
 ---
 
-## Complete Indexed URL & Monograph Corpus (34 Canonical Endpoints)
+## Complete Indexed URL & Monograph Corpus (35 Canonical Endpoints)
 
 - [https://unitbom.com/](https://unitbom.com/)
 - [https://unitbom.com/zh/](https://unitbom.com/zh/)
@@ -42,6 +42,7 @@
 - [https://unitbom.com/teardowns/single-serve-mouthwash-pods-cups-bom-cost.md](https://unitbom.com/teardowns/single-serve-mouthwash-pods-cups-bom-cost.md)
 - [https://unitbom.com/teardowns/waterless-solid-probiotic-mouthwash-tablet-bfs-oral-ampoule-bom-cost.html](https://unitbom.com/teardowns/waterless-solid-probiotic-mouthwash-tablet-bfs-oral-ampoule-bom-cost.html)
 - [https://unitbom.com/teardowns/waterless-solid-probiotic-mouthwash-tablet-bfs-oral-ampoule-bom-cost.md](https://unitbom.com/teardowns/waterless-solid-probiotic-mouthwash-tablet-bfs-oral-ampoule-bom-cost.md)
+- [https://unitbom.com/rss.xml](https://unitbom.com/rss.xml)
 
 ---
 
